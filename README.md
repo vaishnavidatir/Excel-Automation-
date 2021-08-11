@@ -21,7 +21,7 @@ I  analyze the data and created effective visualizations.
 In order to create the slicers we  need Microsoft Excel 2013 or Higher version
 installed. Please ensure this for smooth completion of Project.
 
-**Steps to perform** : What steps needed to complete the project I am mentioning here
+> **Steps to perform** : What steps needed to complete the project I am mentioning here
 ![image](https://user-images.githubusercontent.com/70357132/128995390-1185ef2d-4054-4cef-b088-c58622094627.png)
 
 
