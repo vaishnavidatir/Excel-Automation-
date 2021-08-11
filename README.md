@@ -27,3 +27,6 @@ installed. Please ensure this for smooth completion of Project.
 > **The final output look something like this**
 
 ![image](https://user-images.githubusercontent.com/70357132/128999173-1c2058fd-f3ff-4e9c-a4b8-662a25a5b6e3.png)
+
+# Credits :
+I thanks to my mentor **Ashok Sindakar** Sir for guiding me throught this internship and to **InternshipStudio**  for this Platform.
